@@ -1,0 +1,2 @@
+include ':app', ':skadapter'
+rootProject.name='SKAdapter-Example'

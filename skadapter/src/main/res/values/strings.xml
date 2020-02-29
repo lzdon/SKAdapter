@@ -1,0 +1,8 @@
+<!--
+  ~ Copyright (c) 2016. BiliBili Inc.
+  -->
+
+<resources>
+    <string name="tips_no_data"><![CDATA[╮(╯3╰)╭再怎么找也没有啦]]></string>
+    <string name="tips_load_error"><![CDATA[╮(╯3╰)╭加载失败]]></string>
+</resources>

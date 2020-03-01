@@ -1,5 +1,17 @@
 ## SKRecyclerViewAdapter
-用于`RecyclerView`，支持多布局、函数式的`Adapter`
+Make RecyclerView.Adapter simpler
+
+Support MutilType Layout , Kotlin, Functional Programming
+
+### Dependency
+
+Include the library in your `build.gradle`
+
+```
+dependencies{
+    implementation 'com.lzd:skadapter:1.0.0'
+}
+```
 
 ## Usage
 1. 定义数据类
